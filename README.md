@@ -1,2 +1,2 @@
 # Zakat
-Zakat Application
+Zakat Application to calculating Zakat
